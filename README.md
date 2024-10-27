@@ -11,6 +11,7 @@ Historical data and trend analyses on crop yields for major crops offer insights
 🔸Soil Health Index:
 
 Visualizations track soil quality metrics. This helps to understand how soil conditions affect crop yields and identifies regions at risk of soil degradation.
+
 🔸Climate Impact (Average Temperature and Total Precipitation):
 
 Data on temperature fluctuations and precipitation levels provide insights into climate trends affecting crop growth cycles. Temperature and precipitation patterns are analyzed to predict agricultural productivity and optimize planting schedules.
